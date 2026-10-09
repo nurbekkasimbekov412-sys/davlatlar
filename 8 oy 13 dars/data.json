@@ -1,0 +1,308 @@
+[
+    {
+        "nomi": "O‘zbekiston",
+        "poytaxt": "Toshkent",
+        "aholi": "37 million",
+        "bayroq": "🇺🇿"
+    },
+    {
+        "nomi": "AQSH",
+        "poytaxt": "Vashington",
+        "aholi": "340 million",
+        "bayroq": "🇺🇸"
+    },
+    {
+        "nomi": "Yaponiya",
+        "poytaxt": "Tokio",
+        "aholi": "123 million",
+        "bayroq": "🇯🇵"
+    },
+    {
+        "nomi": "Turkiya",
+        "poytaxt": "Anqara",
+        "aholi": "86 million",
+        "bayroq": "🇹🇷"
+    },
+    {
+        "nomi": "Germaniya",
+        "poytaxt": "Berlin",
+        "aholi": "84 million",
+        "bayroq": "🇩🇪"
+    },
+    {
+        "nomi": "Fransiya",
+        "poytaxt": "Parij",
+        "aholi": "68 million",
+        "bayroq": "🇫🇷"
+    },
+    {
+        "nomi": "Buyuk Britaniya",
+        "poytaxt": "London",
+        "aholi": "69 million",
+        "bayroq": "🇬🇧"
+    },
+    {
+        "nomi": "Italiya",
+        "poytaxt": "Rim",
+        "aholi": "59 million",
+        "bayroq": "🇮🇹"
+    },
+    {
+        "nomi": "Ispaniya",
+        "poytaxt": "Madrid",
+        "aholi": "49 million",
+        "bayroq": "🇪🇸"
+    },
+    {
+        "nomi": "Rossiya",
+        "poytaxt": "Moskva",
+        "aholi": "144 million",
+        "bayroq": "🇷🇺"
+    },
+    {
+        "nomi": "Xitoy",
+        "poytaxt": "Pekin",
+        "aholi": "1,4 milliard",
+        "bayroq": "🇨🇳"
+    },
+    {
+        "nomi": "Hindiston",
+        "poytaxt": "Yangi Dehli",
+        "aholi": "1,4 milliard",
+        "bayroq": "🇮🇳"
+    },
+    {
+        "nomi": "Janubiy Koreya",
+        "poytaxt": "Seul",
+        "aholi": "52 million",
+        "bayroq": "🇰🇷"
+    },
+    {
+        "nomi": "Shimoliy Koreya",
+        "poytaxt": "Pxenyan",
+        "aholi": "26 million",
+        "bayroq": "🇰🇵"
+    },
+    {
+        "nomi": "Qozog‘iston",
+        "poytaxt": "Astana",
+        "aholi": "20 million",
+        "bayroq": "🇰🇿"
+    },
+    {
+        "nomi": "Qirg‘iziston",
+        "poytaxt": "Bishkek",
+        "aholi": "7 million",
+        "bayroq": "🇰🇬"
+    },
+    {
+        "nomi": "Tojikiston",
+        "poytaxt": "Dushanbe",
+        "aholi": "10 million",
+        "bayroq": "🇹🇯"
+    },
+    {
+        "nomi": "Turkmaniston",
+        "poytaxt": "Ashxobod",
+        "aholi": "7 million",
+        "bayroq": "🇹🇲"
+    },
+    {
+        "nomi": "Afg‘oniston",
+        "poytaxt": "Kobul",
+        "aholi": "43 million",
+        "bayroq": "🇦🇫"
+    },
+    {
+        "nomi": "Pokiston",
+        "poytaxt": "Islomobod",
+        "aholi": "250 million",
+        "bayroq": "🇵🇰"
+    },
+    {
+        "nomi": "Braziliya",
+        "poytaxt": "Brazilia",
+        "aholi": "212 million",
+        "bayroq": "🇧🇷"
+    },
+    {
+        "nomi": "Kanada",
+        "poytaxt": "Ottava",
+        "aholi": "41 million",
+        "bayroq": "🇨🇦"
+    },
+    {
+        "nomi": "Meksika",
+        "poytaxt": "Mexiko",
+        "aholi": "131 million",
+        "bayroq": "🇲🇽"
+    },
+    {
+        "nomi": "Argentina",
+        "poytaxt": "Buenos-Ayres",
+        "aholi": "46 million",
+        "bayroq": "🇦🇷"
+    },
+    {
+        "nomi": "Avstraliya",
+        "poytaxt": "Kanberra",
+        "aholi": "27 million",
+        "bayroq": "🇦🇺"
+    },
+    {
+        "nomi": "Yangi Zelandiya",
+        "poytaxt": "Vellington",
+        "aholi": "5 million",
+        "bayroq": "🇳🇿"
+    },
+    {
+        "nomi": "Indoneziya",
+        "poytaxt": "Jakarta",
+        "aholi": "284 million",
+        "bayroq": "🇮🇩"
+    },
+    {
+        "nomi": "Malayziya",
+        "poytaxt": "Kuala-Lumpur",
+        "aholi": "36 million",
+        "bayroq": "🇲🇾"
+    },
+    {
+        "nomi": "Tailand",
+        "poytaxt": "Bangkok",
+        "aholi": "72 million",
+        "bayroq": "🇹🇭"
+    },
+    {
+        "nomi": "Vyetnam",
+        "poytaxt": "Xanoy",
+        "aholi": "101 million",
+        "bayroq": "🇻🇳"
+    },
+    {
+        "nomi": "Filippin",
+        "poytaxt": "Manila",
+        "aholi": "117 million",
+        "bayroq": "🇵🇭"
+    },
+    {
+        "nomi": "Singapur",
+        "poytaxt": "Singapur",
+        "aholi": "6 million",
+        "bayroq": "🇸🇬"
+    },
+    {
+        "nomi": "Saudiya Arabistoni",
+        "poytaxt": "Ar-Riyod",
+        "aholi": "35 million",
+        "bayroq": "🇸🇦"
+    },
+    {
+        "nomi": "Birlashgan Arab Amirliklari",
+        "poytaxt": "Abu-Dabi",
+        "aholi": "11 million",
+        "bayroq": "🇦🇪"
+    },
+    {
+        "nomi": "Qatar",
+        "poytaxt": "Doha",
+        "aholi": "3 million",
+        "bayroq": "🇶🇦"
+    },
+    {
+        "nomi": "Misr",
+        "poytaxt": "Qohira",
+        "aholi": "118 million",
+        "bayroq": "🇪🇬"
+    },
+    {
+        "nomi": "Janubiy Afrika",
+        "poytaxt": "Pretoriya",
+        "aholi": "64 million",
+        "bayroq": "🇿🇦"
+    },
+    {
+        "nomi": "Nigeriya",
+        "poytaxt": "Abuja",
+        "aholi": "237 million",
+        "bayroq": "🇳🇬"
+    },
+    {
+        "nomi": "Keniya",
+        "poytaxt": "Nayrobi",
+        "aholi": "57 million",
+        "bayroq": "🇰🇪"
+    },
+    {
+        "nomi": "Efiopiya",
+        "poytaxt": "Addis-Abeba",
+        "aholi": "135 million",
+        "bayroq": "🇪🇹"
+    },
+    {
+        "nomi": "Marokash",
+        "poytaxt": "Rabot",
+        "aholi": "38 million",
+        "bayroq": "🇲🇦"
+    },
+    {
+        "nomi": "Shveysariya",
+        "poytaxt": "Bern",
+        "aholi": "9 million",
+        "bayroq": "🇨🇭"
+    },
+    {
+        "nomi": "Shvetsiya",
+        "poytaxt": "Stokgolm",
+        "aholi": "11 million",
+        "bayroq": "🇸🇪"
+    },
+    {
+        "nomi": "Norvegiya",
+        "poytaxt": "Oslo",
+        "aholi": "6 million",
+        "bayroq": "🇳🇴"
+    },
+    {
+        "nomi": "Finlandiya",
+        "poytaxt": "Xelsinki",
+        "aholi": "6 million",
+        "bayroq": "🇫🇮"
+    },
+    {
+        "nomi": "Polsha",
+        "poytaxt": "Varshava",
+        "aholi": "38 million",
+        "bayroq": "🇵🇱"
+    },
+    {
+        "nomi": "Ukraina",
+        "poytaxt": "Kyiv",
+        "aholi": "37 million",
+        "bayroq": "🇺🇦"
+    },
+    {
+        "nomi": "Gretsiya",
+        "poytaxt": "Afina",
+        "aholi": "10 million",
+        "bayroq": "🇬🇷"
+    },
+    {
+        "nomi": "Portugaliya",
+        "poytaxt": "Lissabon",
+        "aholi": "10 million",
+        "bayroq": "🇵🇹"
+    },
+    {
+        "nomi": "Niderlandiya",
+        "poytaxt": "Amsterdam",
+        "aholi": "18 million",
+        "bayroq": "🇳🇱"
+    },
+    {
+        "nomi": "Belgiya",
+        "poytaxt": "Bryussel",
+        "aholi": "12 million",
+        "bayroq": "🇧🇪"
+    }
+]
